@@ -1,0 +1,1 @@
+This is a repo for storing projects from The Rust Programming Language book.
